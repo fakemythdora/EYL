@@ -5,7 +5,7 @@ send "Hello World".
 take [ ] from "".
 
 >> action test
-take action from "src/pakage".
+take action from "src/pakage.eyl".
 
 take [ png ] from "image.png/img".
 
