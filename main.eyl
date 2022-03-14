@@ -7,7 +7,7 @@ take [ ] from "".
 >> action test
 take action from "src/pakage.eyl".
 
-take [ png ] from "image.png/img".
+take [ png ] from "img/image.png".
 
 if action = 1 (none{src} | show: 'png'),
 
